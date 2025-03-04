@@ -1,6 +1,5 @@
 # 📦 Box Shadow Generator 🎨
-
-¡Bienvenido al **Box Shadow Generator**! Este proyecto es una herramienta interactiva diseñada para ayudarte a generar y personalizar sombras (`box-shadow`) en CSS de manera visual y dinámica. Fue desarrollado con el objetivo de practicar y reforzar conceptos clave de **JavaScript**, como la manipulación del DOM, eventos y la generación de código CSS en tiempo real.
+**Box Shadow Generator** - Este proyecto es una herramienta interactiva diseñada para ayudarte a generar y personalizar sombras (`box-shadow`) en CSS de manera visual y dinámica. Fue desarrollado con el objetivo de practicar y reforzar conceptos clave de **JavaScript**, como la manipulación del DOM, eventos y la generación de código CSS en tiempo real.
 
 ## 🚀 Características principales
 
@@ -41,8 +40,7 @@ El proyecto consta de tres archivos principales:
 
 ## 🖥️ Captura de pantalla
 
-![Captura de pantalla del Box Shadow Generator](screenshot.png)  
-*(Nota: Agrega una captura de pantalla de tu proyecto aquí)*
+![Captura de pantalla del Box Shadow Generator](screenshot.PNG)  
 
 ## 📝 Código de ejemplo
 
@@ -97,7 +95,7 @@ body {
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 /* Estilos para los deslizadores */
-/* .....
+/* ....
 ```
 
 ### JavaScript
@@ -178,7 +176,7 @@ Si deseas clonar, ejecutar o contribuir a este proyecto, sigue estos pasos:
 Primero, abre tu terminal y ejecuta el siguiente comando para clonar el repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tu-usuario/box-shadow-generator.git
+git clone https://github.com/tu-usuario/Javascript_Html_CSS_Box-Shadow-Generator.git
 ```
 
 Reemplaza tu-usuario con tu nombre de usuario de GitHub o el nombre del propietario del repositorio.
